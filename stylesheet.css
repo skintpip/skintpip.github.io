@@ -5,6 +5,8 @@ body {
 }
 
 div {
+    align-content: center;
+    align-items: center;
     background-color: lightgrey;
     width: 300px;
     border: 15px solid green;
@@ -13,7 +15,7 @@ div {
 }
 
 h1 {
-    color: cyan;
+    color: green;
     font-family: Arial, serif;
 }
 
